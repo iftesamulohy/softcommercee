@@ -1,5 +1,11 @@
-#jazzy-sidebar{
- background-color: #fff !important;
+.content-wrapper,.content {
+    background-color: #FBFBFD !important;
+}
+input.form-control-navbar{
+width: 350px !important;
+}
+.brand-link,.main-header,.content{
+border:none !important;
 }
 .card {
     background-color: #fff;
